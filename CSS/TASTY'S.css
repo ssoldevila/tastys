@@ -72,7 +72,7 @@ body, html {
   width: 100%; /* Ocupa todo el ancho de la página */
   background-color: #fffab4; /* Fondo de la barra */
   z-index: 1000;
-  overflow: hidden; /* Evita que el contenido sobresalga */
+  overflow: hidden; /*Evita que el contingut sobresurti*/
   transition: top 0.3s;
 }
 
