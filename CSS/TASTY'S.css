@@ -66,6 +66,7 @@ body, html {
 
 /*Estil del menú visible*/
 .topnav {
+	
   position: fixed;
   top: 0;
   left: 0;
